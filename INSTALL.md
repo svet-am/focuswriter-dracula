@@ -16,12 +16,14 @@ git clone https://github.com/svet-am/focuswriter-dracula <OS-specific location>
 
 #### Dowload Manually
 
-Download using the [GitHub `.fwtz` download](https://github.com/dracula/foobar/archive/main.zip) option and unzip them.
+Download using the `.fwtz` files from the [Releases page](https://github.com/svet-am/focuswriter-dracula/releases) import them (see below).
 
 #### Activating theme
 
 1. Open FocusWriter
-2. Navigate to Settings -> Themes -> Custom
+2a. Navigate to Settings -> Themes -> Custom
+2b. If using the `.fwtz` file, select the import button
 3. Select the theme from the list
+
 
 ![Theme Selection Screenshot](./screenshot2.png)
