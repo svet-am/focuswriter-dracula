@@ -21,9 +21,9 @@ Download using the `.fwtz` files from the [Releases page](https://github.com/sve
 #### Activating theme
 
 1. Open FocusWriter
-2a. Navigate to Settings -> Themes -> Custom
-2b. If using the `.fwtz` file, select the import button
-3. Select the theme from the list
+2. Navigate to Settings -> Themes -> Custom
+3. If using the `.fwtz` file, select the import button
+4. Otherwise, select the theme from the list
 
 
 ![Theme Selection Screenshot](./screenshot2.png)
