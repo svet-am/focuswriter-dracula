@@ -1,19 +1,25 @@
-### [Foobar](https://foobar.com)
+### Installation of Dracula for [FocusWriter](https://gottcode.org/focuswriter/)
 
-#### Install using Git
+#### Download using Git
 
-If you are a git user, you can install the theme and keep up to date by cloning the repo:
+If you want to keep up to date on the latest changes, simply clone this repo into the FocusWriter theme directory:
 
-```bash
-git clone https://github.com/dracula/foobar.git
+```
+git clone https://github.com/svet-am/focuswriter-dracula <OS-specific location>
 ```
 
-#### Install manually
+## Windows
+%AppData%\GottCode\FocusWriter\Themes
 
-Download using the [GitHub `.zip` download](https://github.com/dracula/foobar/archive/main.zip) option and unzip them.
+## Linux
+~/.local/share/focuswriter/themes
+
+#### Dowload Manually
+
+Download using the [GitHub `.fwtz` download](https://github.com/dracula/foobar/archive/main.zip) option and unzip them.
 
 #### Activating theme
 
-1. Do this;
-2. Then that;
-3. Boom! It's working ✨
+1. Open FocusWriter
+2. Navigate to Settings -> Themes -> Custom
+3. Select the theme from the list (see ![Theme Selection Screenshot](./screenshot2.png) )

@@ -1,30 +1,25 @@
-# Dracula for [Foobar](https://foobar.com)
+# Dracula for [FocusWriter](https://gottcode.org/focuswriter/)
 
-> A dark theme for [Foobar](https://foobar.com).
+> A dark theme for [FocusWriter](https://gottcode.org/focuswriter/).
 
-![Screenshot](./screenshot.png)
+![In-Use Screenshot](./screenshot1.png)
+![Theme Selection Screenshot](./screenshot2.png)
 
 ## Install
 
-All instructions can be found at [draculatheme.com/foobar](https://draculatheme.com/foobar).
+All instructions can be found at [https://github.com/svet-am/focuswriter-dracula/blob/main/INSTALL.md](https://github.com/svet-am/focuswriter-dracula/blob/main/INSTALL.md).
 
 ## Team
 
-This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/dracula/foobar/graphs/contributors).
+This theme is maintained by the following people:
 
-| [![Zeno Rocha](https://github.com/zenorocha.png?size=100)](https://github.com/zenorocha) | [![Lucas de França](https://github.com/luxonauta.png?size=100)](https://github.com/luxonauta) |
-| ---------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------- |
-| [Zeno Rocha](https://github.com/zenorocha)                                               | [Lucas de França](https://github.com/luxonauta)                                               |
+- [Tony McDowell](svet.am [@] gmail.com)
 
 ## Community
 
-- [Twitter](https://twitter.com/draculatheme) - Best for getting updates about themes and new stuff.
-- [GitHub](https://github.com/dracula/dracula-theme/discussions) - Best for asking questions and discussing issues.
-- [Discord](https://draculatheme.com/discord-invite) - Best for hanging out with the community.
+- [GitHub](https://github.com/svet-am/focuswriter-dracula) - Our GitHub is the best place for asking questions and discussing issues.
 
-## Dracula PRO
-
-[![Dracula PRO](./.github/dracula-pro.png)](https://draculatheme.com/pro)
+Special thanks to the Dracula team at [draculatheme.com](https://draculatheme.com/) for the awesome theme and Community
 
 ## License
 
