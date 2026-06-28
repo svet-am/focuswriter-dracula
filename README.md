@@ -3,7 +3,6 @@
 > A dark theme for [FocusWriter](https://gottcode.org/focuswriter/).
 
 ![In-Use Screenshot](./screenshot1.png)
-![Theme Selection Screenshot](./screenshot2.png)
 
 ## Install
 
@@ -13,7 +12,7 @@ All instructions can be found at [https://github.com/svet-am/focuswriter-dracula
 
 This theme is maintained by the following people:
 
-- [Tony McDowell](svet.am [@] gmail.com)
+- [Tony McDowell] (svet.am [at] gmail [dot] com)
 
 ## Community
 

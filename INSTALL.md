@@ -22,4 +22,6 @@ Download using the [GitHub `.fwtz` download](https://github.com/dracula/foobar/a
 
 1. Open FocusWriter
 2. Navigate to Settings -> Themes -> Custom
-3. Select the theme from the list (see ![Theme Selection Screenshot](./screenshot2.png) )
+3. Select the theme from the list
+
+![Theme Selection Screenshot](./screenshot2.png)
