@@ -9,10 +9,14 @@ git clone https://github.com/svet-am/focuswriter-dracula <OS-specific location>
 ```
 
 ## Windows
+```
 %AppData%\GottCode\FocusWriter\Themes
+```
 
 ## Linux
+```
 ~/.local/share/focuswriter/themes
+```
 
 #### Dowload Manually
 
